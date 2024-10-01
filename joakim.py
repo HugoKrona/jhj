@@ -1,1 +1,1 @@
-print("TEST")
+print("joakim sucks")
