@@ -1,1 +1,0 @@
-print("Hugo Är sämst")
